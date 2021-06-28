@@ -19,13 +19,13 @@ const styles = StyleSheet.create({
         backgroundColor: '#f8f8f8'
     },
     logoImage: {
-        width: 105,
-        height: 105,
+        width: 100,
+        height: 100,
         borderRadius: 5
     },
     ImageRectangle: {
-        width: 105,
-        height: 105,
+        width: 100,
+        height: 100,
         borderRadius: 5
     },
     detailContainer: {
